@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/SUP3RMASS1VE/realtime-transcription-fastrtc app",
+          "git clone https://github.com/SUP3RMASS1VE/Realtime-Transcription-app app",
         ]
       }
     },
